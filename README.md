@@ -14,8 +14,7 @@ Eventually, I got tired of constantly switching to the map for something so simp
 
 ## Download & Install
 
-Mod link: [https://mahpella.com/games/way-of-the-hunter/mods/in-game-clock](https://mahpella.com/games/way-of-the-hunter/mods/in-game-clock)  
-Repository link: [https://github.com/bymahpella/woth-hud-clock](https://github.com/bymahpella/woth-hud-clock)
+Mod link: [https://mahpella.com/games/way-of-the-hunter/mods/in-game-clock](https://mahpella.com/games/way-of-the-hunter/mods/in-game-clock)
 
 **Installation guide**
 
@@ -48,7 +47,7 @@ Install both `WOTH_HudClock_P.pak` and `WOTH_ModSettings_P.pak` from the current
 
 If you find a bug, have suggestions for improving this mod, or have ideas for new mods, I would love to hear from you.
 
-More useful interface and UX mods: [https://bymahpella.com](https://bymahpella.com)
+More useful interface and UX mods: [https://mahpella.com](https://mahpella.com)
 
 If you would like to support my work →  
 Buy Me a Coffee: [https://buymeacoffee.com/mahpella](https://buymeacoffee.com/mahpella)
