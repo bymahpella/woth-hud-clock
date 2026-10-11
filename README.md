@@ -1,53 +1,54 @@
-# Виджет на ЧАСЫ
+# In-Game Clock Widget
 
-От Mahpella
+By Mahpella
 
-Небольшой мод для Way of the Hunter, добавляющий возможность отображать текущее игровое время непосредственно на экране во время охоты. Больше не нужно постоянно открывать карту чтобы узнать конкретное время.
+See the current in-game time in the first-person HUD, with a saved visibility setting and the game's 12/24-hour format.
 
-## Обзор
+## Overview
 
-Во время игры я постоянно открывал карту только ради того, чтобы узнать текущее время. Когда следишь за расписанием животных, планируешь охоту или ждёшь стадо у водопоя, приходится делать это довольно часто.
+While playing, I kept opening the map just to check the current time. When you follow animal schedules, plan a hunt, or wait for a herd at a drinking zone, you end up doing this quite often.
 
-В какой-то момент мне просто надоело постоянно переключаться на карту ради такой мелочи. Так и появилась идея In-Game Clock — небольшого мода, который добавляет на экран часы с текущим игровым временем.
+Eventually, I got tired of constantly switching to the map for something so simple. That is how I came up with In-Game Clock, a small mod that adds a clock showing the current in-game time directly on screen.
 
-![Часы на экране во время охоты](images/clock-overview.jpg)
+![In-game clock in the HUD](images/clock-overview.jpg)
 
-## Как скачать и установить
+## Download & Install
 
-Ссылка на мод: [https://mahpella.com/games/way-of-the-hunter/mods/in-game-clock](https://mahpella.com/games/way-of-the-hunter/mods/in-game-clock)  
-На репозиторий: [https://github.com/bymahpella/woth-hud-clock](https://github.com/bymahpella/woth-hud-clock)
+Mod link: [https://mahpella.com/games/way-of-the-hunter/mods/in-game-clock](https://mahpella.com/games/way-of-the-hunter/mods/in-game-clock)  
+Repository link: [https://github.com/bymahpella/woth-hud-clock](https://github.com/bymahpella/woth-hud-clock)
 
-**Руководство по установке**
+**Installation guide**
 
-### Шаг 1. Создайте резервную копию (необязательно)
+### Step 1. Create a backup (optional)
 
-При желании скопируйте папку Saved в другое место:  
+If you wish, copy the Saved folder to another location:  
 **Win + R → %LOCALAPPDATA%\WayOfTheHunter**
 
-### Шаг 2. Откройте папку игры
+### Step 2. Open the game folder
 
-Закройте игру. В Steam откройте расположение локальных файлов Way of the Hunter и перейдите в папку: **WayOfTheHunter\Content\Paks**
+Close the game. In Steam, browse the local files for Way of the Hunter and open: **WayOfTheHunter\Content\Paks**
 
-### Шаг 3. Установите мод
+### Step 3. Install the mod
 
-Распакуйте архив и скопируйте все **файлы .pak в папку Paks**, заменив старые версии при необходимости.  
-Запустите игру и загрузите своё сохранение.
+Extract the archive and copy all **.pak files into the Paks folder**, replacing older versions if necessary.  
+Launch the game and load your save.
 
-## Как пользоваться
+Install both `WOTH_HudClock_P.pak` and `WOTH_ModSettings_P.pak` from the current archive. The shared Mod Settings Core version in the prepared archive is **1.0**; keep one current copy when several mods use it.
 
-- В меню настройки "Основные" появится отдельный раздел "Настройки мода" в конце списка.
-- Управляйте видимостью виджета.
+## How to Use
 
-![Переключатель видимости часов в настройках мода](images/clock-settings.png)
+- Open the game's settings and find the Mod Settings section.
+- Use Time to show or hide the clock in the upper-right corner of the HUD.
+- Your visibility choice is saved independently of HUD presets.
+- The widget follows the game's 12/24-hour time format.
 
-**Приятной игры!**
+![Time visibility setting in Mod Settings](images/clock-settings.png)
 
-## Обратная связь
+## Feedback
 
-Если вы обнаружили ошибку, у вас есть предложения по улучшению этого мода или собственные идеи для новых модификаций, буду рад вашим сообщениям.
+If you find a bug, have suggestions for improving this mod, or have ideas for new mods, I would love to hear from you.
 
-**Больше полезных модов на интерфейс и UX:** [https://mahpella.com](https://mahpella.com)
+More useful interface and UX mods: [https://bymahpella.com](https://bymahpella.com)
 
-### Если у вас есть возможность поддержать мою работу →
-
-### Boosty: [https://boosty.to/mahpella](https://boosty.to/mahpella)
+If you would like to support my work →  
+Buy Me a Coffee: [https://buymeacoffee.com/mahpella](https://buymeacoffee.com/mahpella)
