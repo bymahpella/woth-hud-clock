@@ -1,4 +1,4 @@
-# In-Game Clock Widget
+# In-Game Clock — Way of the Hunter Mod
 
 By Mahpella
 
