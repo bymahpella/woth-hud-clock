@@ -14,7 +14,7 @@ Eventually, I got tired of constantly switching to the map for something so simp
 
 ## Download & Install
 
-Mod link: [https://mahpella.com/games/way-of-the-hunter/mods/in-game-clock](https://mahpella.com/games/way-of-the-hunter/mods/in-game-clock)
+You can download the mod from my [Website](https://mahpella.com/games/way-of-the-hunter/mods/in-game-clock) or [Nexus Mods](https://www.nexusmods.com/wayofthehunter/mods/30).
 
 **Installation guide**
 
